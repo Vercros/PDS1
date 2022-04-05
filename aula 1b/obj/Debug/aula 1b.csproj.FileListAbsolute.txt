@@ -1,0 +1,19 @@
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\bin\Debug\aula 1b.exe.config
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\bin\Debug\aula 1b.exe
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\bin\Debug\aula 1b.pdb
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b.csproj.AssemblyReference.cache
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\App.g.cs
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b_MarkupCompile.cache
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b_MarkupCompile.lref
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\MainWindow.baml
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b.g.resources
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula_1b.Properties.Resources.resources
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b.csproj.GenerateResource.cache
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b.csproj.CoreCompileInputs.cache
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b.exe
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b.pdb
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\Window1.g.cs
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\Window1.baml
+C:\Users\2020102011064-2\Desktop\Artur\aula 1b\aula 1b\obj\Debug\aula 1b_Content.g.cs
